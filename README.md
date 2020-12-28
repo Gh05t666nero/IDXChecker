@@ -24,9 +24,9 @@ IDXChecker is an account checker for the popular cryptocurrency service Indodax 
 ```
 
 # Donate
-Bitcoin : *39PZJQuRdVPRAjZDborrWXC25XyZdqGZjX*
-Dogecoin: *DC8QmYQSc9RKSQRDQRyzsMfMdu6gDRPX5H*
-Litecoin: *MG8Rb5uXL9aHk59RHuXjnPcwMsouZyuaAg*
+BTC : *39PZJQuRdVPRAjZDborrWXC25XyZdqGZjX*
+DOGE: *DC8QmYQSc9RKSQRDQRyzsMfMdu6gDRPX5H*
+LTC : *MG8Rb5uXL9aHk59RHuXjnPcwMsouZyuaAg*
 
 # Terms and Conditions
 - This repository is for educational purposes only
