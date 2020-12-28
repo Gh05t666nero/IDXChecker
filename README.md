@@ -6,6 +6,7 @@ IDXChecker is an account checker for the popular cryptocurrency service Indodax 
 
 # Features
 - Checks for valid/invalid accounts
+- Very fast in account validation
 - Saves data for valid accounts in live.txt
 - Saves data for invalid accounts in die.txt
 - Color difference between valid and invalid accounts
@@ -24,12 +25,10 @@ IDXChecker is an account checker for the popular cryptocurrency service Indodax 
 ```
 
 # Donate
-- BTC: *39PZJQuRdVPRAjZDborrWXC25XyZdqGZjX*
-- DOGE: *DC8QmYQSc9RKSQRDQRyzsMfMdu6gDRPX5H*
-- LTC: *MG8Rb5uXL9aHk59RHuXjnPcwMsouZyuaAg*
+Bitcoin: *39PZJQuRdVPRAjZDborrWXC25XyZdqGZjX*
 
 # Terms and Conditions
-- This repository is for educational purposes only
+- This tool is for educational purposes only
 - You won't use this application/code to attempt to obtain accounts which are NOT yours (bruteforcing, etc...)
 - You won't use this application/code to do anything unlawful or commit crimes
 - I am not responsible for any actions done by people who use this code
