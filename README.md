@@ -20,10 +20,12 @@ IDXChecker is an account checker for the popular cryptocurrency service Indodax 
 # Usage
 ```
 ┌──(root💀localhost)-[~]
-└─# python3 indodax.py
+└─# python3 idx.py
 ```
 
 # Donate
+Bitcoin : *39PZJQuRdVPRAjZDborrWXC25XyZdqGZjX*
+Dogecoin: *DC8QmYQSc9RKSQRDQRyzsMfMdu6gDRPX5H*
 Litecoin: *MG8Rb5uXL9aHk59RHuXjnPcwMsouZyuaAg*
 
 # Terms and Conditions
